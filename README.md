@@ -1,6 +1,8 @@
 # SDK
 
 - SDK là từ viết tắt của Software Development Kit. Nó thực chất là bộ công cụ và phần mềm phục vụ cho việc phát triển ứng dụng dựa trên một nền tảng nhất định
+- SDK giúp developer dễ dàng hơn trong việc tích hợp vào ứng dụng của họ , tiết kiệm thời gian
+- SDK đi kèm sẽ giúp tăng cường phạm vi hoạt động hoặc xuất hiện của sản phẩm. Theo đó, ứng dụng của bạn sẽ tương tác với nhiều phần mềm khác, mở rộng phạm vi hoạt động.
 
 ## MirrorFly : Real Time Chat SDK for Web and Mobile Platform
 CONTUS MirrorFly được thành lập vào năm 2008 bởi nhóm các công ty CONTUS. Trước đây, nó đã xuất hiện trên thị trường với tên gọi “ContusFly” nhưng sau đó, thương hiệu này đã được đổi tên thành “CONTUS MirrorFly.”
@@ -28,7 +30,14 @@ Mirrorfly là tương lai của truyền thông bởi vì, không giống như c
     - Thông báo : Ngoài việc kích thích tương tác và tăng tỷ lệ chuyển đổi, tính năng thông báo đảm bảo giao tiếp hiệu quả. Thông qua thông báo , người tham gia có thể gửi và nhận tin nhắn ngay lập tức trong thời gian thực.
     - Tùy chọn phát tin nhắn: Tính năng nhắn tin quảng bá là khi một văn bản có thể được gửi đến một số người nhận. Đó là một cách hoàn hảo để tiết kiệm thời gian và công sức cũng như giao tiếp được cá nhân hóa chắc chắn.
     -  Kênh không giới hạn: Không giống như các ứng dụng nhắn tin khác, với API MirrorFly, bạn có thể tạo các kênh riêng tư và mở không giới hạn để tự do tương tác bằng cách gửi tin nhắn, hình ảnh hoặc video cho các cá nhân hoặc nhóm trò chuyện
-    
+4. Giá thành sản phầm 
+
+    - Cung cấp chế độ dùng thử và người dùng chỉ mất chi phí 1 lần với từng lựa chọn sản phẩm
+| Essentials | Growth | Premium|
+| ------ | ------ |------ |
+| Chat | Chat + Voice + Video | Chat + Voice + Video + Conference |
+| $ 99/month | $ 199/month | $ 999/month |
+
 ## Twilio: A Communication API Provider
 Twilio được thành lập vào năm 2008 bởi nhóm công ty Twilio và đã phát triển nhanh hơn mong đợi. Twilio là dịch vụ giao tiếp đám mây phổ biến cho phép thực hiện và nhận cuộc gọi điện thoại cũng như gửi và nhận tin nhắn văn bản bằng cách sử dụng các API dịch vụ web. Nó đã xây dựng nền tảng với các nhà đầu tư lớn như Bessemer, Redpoint và Union Square. Hơn nữa, nó có thể dễ dàng tích hợp các cuộc gọi điện thoại và tin nhắn SMS vào các ứng dụng của bạn.
 1. Một vài đặc điểm cơ bản
@@ -50,6 +59,16 @@ Twilio được thành lập vào năm 2008 bởi nhóm công ty Twilio và đã
     - SMS: Người dùng có thể gửi và nhận tin nhắn văn bản từ mọi nơi trên thế giới.
     - Trò chuyện: Có thể tích hợp ứng dụng Trò chuyện với API Twilio trên bất kỳ ứng dụng web hoặc thiết bị di động nào.
     - Video: API Twilio cho phép các nhà phát triển xây dựng các ứng dụng giao tiếp video hoặc âm thanh HD theo thời gian thực.
+    
+4. Giá thành sản phẩm 
+
+    - Flexible pricing models
+    Per-hour pricing $1
+    Per-month pricing $150
+    - Autopilot pricing
+    Voice ($0.40 per minute)
+    Messaging ($0.0001 per message)
+    Chat ($o.001 per message)
 
 ## Sendbird : Complete In-App Chat Platform for Android,iOS Apps
 
@@ -78,6 +97,12 @@ Sendbird là nền tảng SDK trò chuyện hàng đầu dành cho Android và �
     Tính năng này cho phép theo dõi các kênh tạm thời đóng băng để dừng hoạt động của người dùng, thậm chí có thể cấm người dùng nói tục tĩu, v.v.
     - Sendbird cung cấp tính năng trò chuyện nhóm công khai, nơi người dùng có thể tham gia mà không cần lời mời từ người khác. Nó cho phép người dùng tương tác với khoảng một trăm thành viên như một cài đặt mặc định. Nhưng đôi khi nó có thể được tăng lên nhưng với những hạn chế trong sự tham gia của người dùng.
 
+4. Giá thành sản phẩm 
+
+    - Chat Pricing
+    Starter 5K(get started with chat) — $399/Month
+    Pro 5k (Most features for growing businesses)- $799/Month
+
 ## PubNub: Real Time In-App Chat Platform
 PubNub được thành lập vào năm 2010. PubNub là một trong những Mạng truyền dữ liệu an toàn trên toàn thế giới rất dễ sử dụng. Tại đây, API cho phép mọi người từ nhiều vị trí khác nhau kết nối, đo lường, quản lý và mở rộng quy mô các ứng dụng giải pháp SDK trò chuyện trong ứng dụng thời gian thực và thiết bị loT.
 1. Một vài đặc điểm cơ bản 
@@ -90,6 +115,73 @@ PubNub được thành lập vào năm 2010. PubNub là một trong những Mạ
 
     - Giải pháp phân phối Omni-channel (ODS) giải pháp tận dụng việc truyền phát thời gian thực các khả năng của tin nhắn qua đám mây để đăng các đơn đặt hàng bằng cách sử dụng xuất bản - đăng ký bất kỳ cập nhật nào liên quan đến đơn hàng.
     - PubNub sử dụng mô hình Xuất bản / Đăng ký để truyền dữ liệu theo thời gian thực và báo hiệu thiết bị và hỗ trợ tất cả các khả năng của WebSockets, Socket.IO, SignalIR, WebRTC Data Channel và các giao thức truyền phát khác.
+    - Về vấn đề bảo mật Pubnub sử dụng mã hóa TLS và AES256, cộng với hỗ trợ cho các mô hình BYOE (mang mã hóa của riêng bạn). Tuân thủ HIPAA, Tuân thủ SOC 2, được chứng nhận Privacy Shield và tuân thủ GDPR.
+    
+3. Tính năng
+
+    - Mạng : Mạng của nó cho phép các nhà phát triển xây dựng các ứng dụng đáng tin cậy, có thể mở rộng với hiệu suất và bảo đảm dịch vụ chưa từng có bằng cách cung cấp hỗ trợ của 14 trung tâm dữ liệu, 3 triệu tin nhắn mỗi giây với độ trễ 0,25 giây và 200 triệu thiết bị mỗi tháng, v.v.
+    - Tính năng này giúp biết khi nào người dùng vào hoặc rời ứng dụng & ai đang trực tuyến hoặc ngoại tuyến bằng cách phát hiện các kết nối máy. Dịch vụ hiện diện có vai trò quan trọng trong các chương trình như trong phòng trò chuyện, vận động hành lang trò chơi và liên lạc từ máy đến máy.
+    - Dữ liệu được lưu trữ trong thời gian thực và có thể dễ dàng truy xuất khi tải ứng dụng khi lịch sử được duy trì để truy xuất thư và cũng phát lại luồng dữ liệu.
+    - Trình điều khiển luồng: Tính năng này cho phép kiểm soát truy cập đối với số lượng lớn kênh với trình quản lý truy cập PubNub.
+    - Thông báo: Tính năng này cho phép gửi thông báo tới các ứng dụng trong Android và iOS ngay cả khi ứng dụng ngoại tuyến. Với một lần gửi, nhiều thiết bị có thể dễ dàng nhận được thông báo. Nó cũng cung cấp hàng đợi tin nhắn giúp giữ lại tin nhắn khi hết thời gian kết nối di động.
+    - Phân tích: Nó cho phép phân tích số lượng thiết bị được kết nối và lượng dữ liệu được truyền.
+    - Quản lý truy cập: Nó cho phép người dùng được ủy quyền truy cập trên các kênh và cũng cho phép tích hợp với các hệ thống xác thực phổ biến khác nhau như Facebook, Google, v.v. Nó cũng hỗ trợ tích hợp với các hệ thống xác thực được xây dựng tùy chỉnh.
+
+4. Giá thành sử dụng
+
+    -Giá cho người dùng mỗi tháng
+    Free ($0/month) — can try upto 200 MAU
+    Starter at $49/month plus MAUs
+    Support Plans
+    Starter Support (the greater of $500/month or 4% of usage bill)
+    Pro Support (the greater of $1500/month or 6% of usage bill)
+    Virtual Event Support ($399/month) — (đề xuất cho các ứng dụng live stream)
+     
+## Pusher : A Leader in Real Time Solution
+Pusher được thành lập vào năm 2011 bởi một nhóm các công ty Pusher. Nó thường là một tổ chức công cụ dành cho nhà phát triển xây dựng các API giao tiếp và cộng tác cung cấp  giải pháp cho các ứng dụng trên khắp thế giới. Nó góp phần tạo ra một ứng dụng nhắn tin tức thì có thể mở rộng cho iOS, Android và ứng dụng web. Nó làm cho nhiệm vụ trở nên dễ dàng hơn bằng cách sử dụng sản phẩm cốt lõi, các nhà phát triển, các kênh với các tính năng tương tác nhất của nó.
+1. Một vài đặc điểm cơ bản 
+
+    - Pusher nằm như một lớp thời gian thực giữa máy chủ và máy khách của bạn.
+    - Pusher duy trì các kết nối liên tục đến các máy khách - qua WebSocket nếu có thể và quay trở lại kết nối dựa trên HTTP - để ngay khi máy chủ của bạn có dữ liệu mới mà chúng muốn đẩy tới các máy khách mà chúng có thể thực hiện, ngay lập tức thông qua Pusher.
+    - Pusher cung cấp các thư viện để tích hợp vào tất cả các thời gian chạy và fame work PHP, Ruby, Python, Java, .NET, Go và Node trên máy chủ và JavaScript, Objective-C (iOS) và Java (Android) trên máy khách.
+
+2. Công nghệ được sử dụng 
+
+    -  Pusher Channel hoạt động ở mọi nơi vì nó sử dụng WebSockets và HTTP và cung cấp dự phòng cho các thiết bị không hỗ trợ WebSockets.
+    - Client duyệt web - > dữ liệu sẽ được chuyến đến sever-> sever chuyển tiếp đến Pusher thông qua pusher API -> Pusher trả kết lại cho client (hoặc client khác). Pusher cung cấp cho chúng ta nhiều gói dịch vụ  Nhưng gói free của pusher cung đã cũng cấp cho chúng ta 200k tin nhắn và 100 kết nối mỗi ngày
+    - Pusher tuân thủ GDPR và HIPAA
+    - Dễ dàng truy vấn trạng thái ứng dụng, thông tin kênh, người dùng hiện diện và hơn thế nữa
+    - Các kênh được mã hóa end-to-end cung cấp các hạn chế đăng ký giống như các kênh riêng tư .Ngoài ra, trường dữ liệu của các sự kiện được xuất bản cho các kênh được mã hóa end-to-end được mã hóa bằng cách sử dụng triển khai tiêu chuẩn mã hóa Secretbox được xác định trong NaCl trước khi nó rời khỏi máy chủ của bạn.
+    
+3. Tính năng
+
+    - API đã được hợp nhất để gửi các push notification tới thiết bị iOS, Android và MacOS
+    Có dịch vụ từ máy chủ để quản lý vòng đời của token thiết bị cho các ứng dụng iOS và Android
+    - Interests để gửi thông báo, bằng cách sử dụng mô hình đăng ký/ đưa tin linh hoạt
+    - Cung cấp tính năng trò chuyện do nhà phát triển điều khiển để hiện thực hóa các tính năng nhắn tin
+    - Cung cấp toàn quyền kiểm soát những người dùng có quyền truy cập vào phòng . Cung cấp các bản cập nhật khi người dùng thay đổi trạng thái của họ là trực tuyến / ngoại tuyến
+    - Khi một thông báo được gửi đến một thiết bị bằng Pusher Beams, SDK từ phía khách hàng sẽ báo phản hồi lại bằng một sự kiện xác nhận khi nhận được thông báo. Nếu người dùng nhấn vào thông báo để mở ứng dụng, SDK này sẽ báo cáo lại sang sự kiện mở. Bạn có thể xem báo cáo được tổng hợp từ ứng dụng của mình và các sự kiện mở qua Insights hoặc cũng như log sự kiện thời gian thực trong Debug Console.
+    
+4. Giá thành sử dụng 
+
+    - Sandbox
+    Số tin nhắn / ngày — 200K
+    Số kết nối đồng thời— 100
+    Monitoring Integration — No
+    Price — Free
+    - Start Up
+    Số tin nhắn / ngày — 1 Million
+    Số kết nối đồng thời — 500
+    Monitoring Integration — No
+    Price — $49/month
+    - Pro
+    Số tin nhắn / ngày — 4 Million
+    Số kết nối đồng thời— 2000
+    Monitoring Integration — Yes
+    Price — $99/month
+
+    
+    
 
 
     
