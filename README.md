@@ -4,7 +4,7 @@
 - SDK giúp developer dễ dàng hơn trong việc tích hợp vào ứng dụng của họ , tiết kiệm thời gian
 - SDK đi kèm sẽ giúp tăng cường phạm vi hoạt động hoặc xuất hiện của sản phẩm. Theo đó, ứng dụng của bạn sẽ tương tác với nhiều phần mềm khác, mở rộng phạm vi hoạt động.
 
-## MirrorFly : Real Time Chat SDK for Web and Mobile Platform
+## MirrorFly : Platform(iOS, Android, & Web Applications)
 CONTUS MirrorFly được thành lập vào năm 2008 bởi nhóm các công ty CONTUS. Trước đây, nó đã xuất hiện trên thị trường với tên gọi “ContusFly” nhưng sau đó, thương hiệu này đã được đổi tên thành “CONTUS MirrorFly.”
 Nó đã bắt đầu hoạt động kinh doanh của mình với việc phát triển ứng dụng nhắn tin, song song đó mang đến cơ hội xây dựng SDK trò chuyện thời gian thực cho doanh nghiệp.
 Mirrorfly là tương lai của truyền thông bởi vì, không giống như các API khác, nó cung cấp việc sử dụng dữ liệu không giới hạn và các tùy chọn tích hợp mở rộng. Các dịch vụ API trò chuyện và SDK nhắn tin của MirrorFly cho phép tích hợp hệ thống nhắn tin, trò chuyện thoại và video vào ứng dụng. Nó cũng cung cấp WebRTC để xây dựng các ứng dụng âm thanh cũng như trò chuyện video trên cả ứng dụng Web và Mobile. Mục tiêu cuối cùng của MirrorFly là tạo ra một cuộc trò chuyện thời gian thực giữa những người dùng.
@@ -33,12 +33,17 @@ Mirrorfly là tương lai của truyền thông bởi vì, không giống như c
 4. Giá thành sản phầm 
 
     - Cung cấp chế độ dùng thử và người dùng chỉ mất chi phí 1 lần với từng lựa chọn sản phẩm
-| Essentials | Growth | Premium|
-| ------ | ------ |------ |
-| Chat | Chat + Voice + Video | Chat + Voice + Video + Conference |
-| $ 99/month | $ 199/month | $ 999/month |
+    
+        | Essentials | Growth | Premium|
+        | ------ | ------ |------ |
+        | Chat | Chat + Voice + Video | Chat + Voice + Video + Conference |
+        | $ 99/month | $ 199/month | $ 999/month |
 
-## Twilio: A Communication API Provider
+5. Cách sử dụng
+
+    - Bạn có thể tích hợp vào ứng dụng của mình theo hướng dẫn  [tại đây](https://www.mirrorfly.com/docs/iossdk/getting_started)
+
+## Twilio: Platform(iOS, Android)
 Twilio được thành lập vào năm 2008 bởi nhóm công ty Twilio và đã phát triển nhanh hơn mong đợi. Twilio là dịch vụ giao tiếp đám mây phổ biến cho phép thực hiện và nhận cuộc gọi điện thoại cũng như gửi và nhận tin nhắn văn bản bằng cách sử dụng các API dịch vụ web. Nó đã xây dựng nền tảng với các nhà đầu tư lớn như Bessemer, Redpoint và Union Square. Hơn nữa, nó có thể dễ dàng tích hợp các cuộc gọi điện thoại và tin nhắn SMS vào các ứng dụng của bạn.
 1. Một vài đặc điểm cơ bản
 
@@ -70,7 +75,11 @@ Twilio được thành lập vào năm 2008 bởi nhóm công ty Twilio và đã
     Messaging ($0.0001 per message)
     Chat ($o.001 per message)
 
-## Sendbird : Complete In-App Chat Platform for Android,iOS Apps
+5. Cách sử dụng 
+
+    - Bạn có thể tích hợp vào ứng dụng của mình theo hướng dẫn [tại đây](https://www.twilio.com/docs/libraries)
+
+## Sendbird : Platform(iOS, Android, & Web Applications)
 
 Sendbird là nền tảng SDK trò chuyện hàng đầu dành cho Android và ứng dụng web, được thành lập vào năm 2012 và nổi tiếng với các nền tảng nhắn tin và trò chuyện thời gian thực. Sendbird có khách hàng ở khoảng 150 quốc gia trên toàn cầu và họ đang phục vụ nhiều ngành khác nhau bao gồm chợ, trò chơi, thương mại điện tử và dịch vụ theo yêu cầu.
 
@@ -103,7 +112,11 @@ Sendbird là nền tảng SDK trò chuyện hàng đầu dành cho Android và �
     Starter 5K(get started with chat) — $399/Month
     Pro 5k (Most features for growing businesses)- $799/Month
 
-## PubNub: Real Time In-App Chat Platform
+5. Cách sử dụng 
+
+    - Bạn có thể tích hợp vào ứng dụng của mình theo hướng dẫn [tại đây](https://sendbird.com/developer/tutorials/swift-chat-tutorial-part-1-user-login-view)
+
+## PubNub: Platform(iOS, Android)
 PubNub được thành lập vào năm 2010. PubNub là một trong những Mạng truyền dữ liệu an toàn trên toàn thế giới rất dễ sử dụng. Tại đây, API cho phép mọi người từ nhiều vị trí khác nhau kết nối, đo lường, quản lý và mở rộng quy mô các ứng dụng giải pháp SDK trò chuyện trong ứng dụng thời gian thực và thiết bị loT.
 1. Một vài đặc điểm cơ bản 
 
@@ -136,14 +149,20 @@ PubNub được thành lập vào năm 2010. PubNub là một trong những Mạ
     Starter Support (the greater of $500/month or 4% of usage bill)
     Pro Support (the greater of $1500/month or 6% of usage bill)
     Virtual Event Support ($399/month) — (đề xuất cho các ứng dụng live stream)
+    
+5. Cách sử dụng 
+
+    - Bạn có thể tích hợp vào ứng dụng của mình theo hướng dẫn [tại đây](https://www.pubnub.com/docs/chat/components/ios/get-started-ios)
      
-## Pusher : A Leader in Real Time Solution
+## Pusher : Platform(iOS, Android, & Web Applications)
 Pusher được thành lập vào năm 2011 bởi một nhóm các công ty Pusher. Nó thường là một tổ chức công cụ dành cho nhà phát triển xây dựng các API giao tiếp và cộng tác cung cấp  giải pháp cho các ứng dụng trên khắp thế giới. Nó góp phần tạo ra một ứng dụng nhắn tin tức thì có thể mở rộng cho iOS, Android và ứng dụng web. Nó làm cho nhiệm vụ trở nên dễ dàng hơn bằng cách sử dụng sản phẩm cốt lõi, các nhà phát triển, các kênh với các tính năng tương tác nhất của nó.
 1. Một vài đặc điểm cơ bản 
 
     - Pusher nằm như một lớp thời gian thực giữa máy chủ và máy khách của bạn.
     - Pusher duy trì các kết nối liên tục đến các máy khách - qua WebSocket nếu có thể và quay trở lại kết nối dựa trên HTTP - để ngay khi máy chủ của bạn có dữ liệu mới mà chúng muốn đẩy tới các máy khách mà chúng có thể thực hiện, ngay lập tức thông qua Pusher.
     - Pusher cung cấp các thư viện để tích hợp vào tất cả các thời gian chạy và fame work PHP, Ruby, Python, Java, .NET, Go và Node trên máy chủ và JavaScript, Objective-C (iOS) và Java (Android) trên máy khách.
+    - Pusher Channels cung cấp giao tiếp thời gian thực giữa các máy chủ, ứng dụng và thiết bị. Các kênh được sử dụng cho biểu đồ thời gian thực, danh sách người dùng thời gian thực, bản đồ thời gian thực, trò chơi nhiều người chơi và nhiều loại cập nhật giao diện người dùng khác.
+    - Pusher Beams là một API để gửi thông báo tới các ứng dụng iOS, Android và Web. Nó bao gồm một dịch vụ được lưu trữ và các SDK chuyên dụng để quản lý liền mạch các mã thông báo thiết bị của ứng dụng của bạn. 
 
 2. Công nghệ được sử dụng 
 
@@ -179,6 +198,10 @@ Pusher được thành lập vào năm 2011 bởi một nhóm các công ty Push
     Số kết nối đồng thời— 2000
     Monitoring Integration — Yes
     Price — $99/month
+    
+5. Cách sử dụng 
+
+    - Bạn có thể tích hợp vào ứng dụng của mình theo hướng dẫn [tại đây](https://pusher.com/docs/beams/getting-started/ios/configure-apns/)
 
     
     
