@@ -3,7 +3,25 @@
 - SDK là từ viết tắt của Software Development Kit. Nó thực chất là bộ công cụ và phần mềm phục vụ cho việc phát triển ứng dụng dựa trên một nền tảng nhất định
 - SDK giúp developer dễ dàng hơn trong việc tích hợp vào ứng dụng của họ , tiết kiệm thời gian
 - SDK đi kèm sẽ giúp tăng cường phạm vi hoạt động hoặc xuất hiện của sản phẩm. Theo đó, ứng dụng của bạn sẽ tương tác với nhiều phần mềm khác, mở rộng phạm vi hoạt động.
+1. Lợi ích của SDK
 
+    - Khả năng tích hợp nhanh : Bộ công cụ SDK có khả năng tích hợp với các nền tảng, hệ điều hành và những phần mềm đi kèm (technical stack) với nhau một cách nhanh chóng,
+    - Triển khai nhanh chóng: Giả sử bạn cần chia sẻ nội dung hoặc hình ảnh từ ứng dụng của mình lên Facebook. Thay vì viết mã code từ đầu, hãy tìm kiếm bộ công cụ SDK Android của Facebook để lấy mã hoạt động phù hợp cho thiết bị di động. Điều này sẽ giúp bạn tiết kiệm được kha khá thời gian và tăng tốc độ triển khai ứng dụng lên đáng kể.
+    - Giúp tăng cường phạm vi của sản phẩm/ứng dụng: Việc cho phép các doanh nghiệp/nhà phát triển khác sử dụng công nghệ của mình thông qua bộ công cụ SDK sẽ giúp doanh nghiệp tiếp cận được nhiều đối tượng hơn, đồng thời tìm kiếm thêm khách hàng tiềm năng một cách hiệu quả. 
+    - Kiểm soát thương hiệu tốt, giúp giảm thiểu rủi ro: SDK cho phép điều chỉnh cách thức ứng dụng hiển thị trên các phần mềm tương tác. Việc kiểm soát này không chỉ cho phép bạn thay đổi phương pháp sản phẩm tích hợp với các ứng dụng khác cho phù hợp hơn mà còn giúp tùy chỉnh cả giao diện trong khi vẫn đảm bảo sự an toàn cho các chức năng tối quan trọng khác. SDK giúp phần mềm an toàn hơn. Đồng thời cũng không làm giảm sút những giá trị quyết định đến chất lượng trải nghiệm của người dùng.
+2. Các đặc điểm của một SDK tốt
+
+    - Dễ dàng được sử dụng bởi các nhà phát triển khác.
+    - Có tài liệu hướng dẫn chi tiết để giải thích về mục đích, cách thức hoạt động,… Của các đoạn mã code.
+    - Cung cấp đầy đủ chức năng tăng cường giá trị sử dụng của các ứng dụng khác.
+    - Có khả năng tích hợp tốt khi sử dụng với các SDK khác.
+    - Không gây ảnh hưởng xấu đến CPU, pin hoặc mức độ tiêu hao năng lượng của thiết bị sử dụng.
+3. Chat SDK
+
+     - Chat SDK là một gói lập trình hoặc tập hợp các công cụ và chương trình phần mềm cho phép các developer xây dựng các ứng dụng trò chuyện một cách hiệu quả .Chat SDK thường đi kèm với các tính năng có sẵn như biểu tượng cảm xúc, tệp đính kèm tin nhắn, tích hợp Giphy,.. để làm cho trải nghiệm trò chuyện hấp dẫn hơn. 
+
+
+# Top 5 Chat SDK nổi bật
 ## MirrorFly : Platform(iOS, Android, & Web Applications)
 CONTUS MirrorFly được thành lập vào năm 2008 bởi nhóm các công ty CONTUS. Trước đây, nó đã xuất hiện trên thị trường với tên gọi “ContusFly” nhưng sau đó, thương hiệu này đã được đổi tên thành “CONTUS MirrorFly.”
 Nó đã bắt đầu hoạt động kinh doanh của mình với việc phát triển ứng dụng nhắn tin, song song đó mang đến cơ hội xây dựng SDK trò chuyện thời gian thực cho doanh nghiệp.
